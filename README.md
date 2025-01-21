@@ -1,5 +1,7 @@
 # **Paradise Game**
 
+![Paradise Game Banner](1574D2F5-D68D-4650-9D94-DE99F6752966.jpeg)
+
 ## 🌌 **A Fractal Intelligence Exploration and Adventure Game**
 
 Paradise Game is an immersive, AI-verified full-immersion alternate reality (**AIVFIAR**) game powered by the **Paradise Energy Fractal Force (PEFF)**. Embark on a journey of exploration, discovery, and transformation as you navigate dynamic fractal landscapes, solve intricate puzzles, and contribute to building a harmonious fractal universe.
